@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+data/
+virtual_env/
+id_rsa*
